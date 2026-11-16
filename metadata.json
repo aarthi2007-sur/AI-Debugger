@@ -1,0 +1,8 @@
+{
+  "name": "AI Debugger",
+  "description": "AI Debugger – Intelligent Source Code Error Analysis System for static parsing, error classification, beginner-friendly explanations, and side-by-side code fixes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
